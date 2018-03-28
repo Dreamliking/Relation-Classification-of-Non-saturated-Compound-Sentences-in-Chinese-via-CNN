@@ -1,4 +1,5 @@
-# Relation-Classification-of-Non-saturated-Compound-Sentences-in-Chinese-via-CNNDataset and relational table
+# Relation-Classification-of-Non-saturated-Compound-Sentences-in-Chinese-via-CNN
+Dataset and relational table
 链接：https://pan.baidu.com/s/1hAtIsOQmbNZGQd1QYDaYig 密码：y4t9
 
 
